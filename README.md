@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá! 👋 Sou Luiz Henrique Pacheco dos Santos
 
-<!--
-**luiz10c1m-coder/luiz10c1m-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Tecnologia
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um(a) estudante apaixonado(a) por tecnologia, com foco em programação back-end e front-end . Estou sempre buscando aprender e aplicar novos conhecimentos para resolver problemas e construir soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Habilidades e Tecnologias
+
+* **Linguagens de Programação:** JavaScript (básico)
+* **Controle de Versão:** GitHub
+* **Bancos de Dados:** SQL (básico)
+* **Sistemas Operacionais:** Windows
+* **Ferramentas:** VS Code (básico)
+* **Outros:** Lógica de Programação, Estrutura de Dados.
+
+---
+
+### ✨ Projetos em Destaque
+
+Aqui estão alguns dos projetos que tenho trabalhado. Clique neles para ver mais detalhes e o código-fonte!
+
+#### 1. **Projeto Fitness**
+
+* **Descrição:** Um pequeno projeto de site Fitness com IMC. 
+* **Tecnologias:** HTML, CSS, JS.
+* **Link do Repositório:** [Projeto Fitness](https://github.com/luiz10c1m-coder/projeto-fitiness.git)
+
+#### 2. [Nome do Projeto 2 - Ex: Análise de Dados de Vendas (em breve)]
+
+* **Descrição:** Projeto em andamento que visa analisar um conjunto de dados de vendas para identificar tendências e *insights* importantes.
+* **Tecnologias:** Python, Pandas, Matplotlib.
+* **Link do Repositório:** [Link para o repositório deste projeto no GitHub (se já existir)]
+    * *(Se ainda não existir, você pode colocar "Repositório em construção")*
+
+---
+
+### 🌱 O Que Estou Aprendendo Agora?
+
+Atualmente, estou me aprofundando em **[mencione algo que está estudando, ex: frameworks web como React, ou conceitos de Cloud Computing]**.
+
+---
+
+### 📬 Conecte-se Comigo!
+
+* **LinkedIn:** [Link para o seu perfil do LinkedIn]
+* **Email:** [Seu Email]
+* **Lattes (se aplicável):** [Link para o seu Currículo Lattes]
+
+---
+
+**"O aprendizado é um processo contínuo."**
