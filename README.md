@@ -27,26 +27,18 @@ Aqui estão alguns dos projetos que tenho trabalhado. Clique neles para ver mais
 * **Tecnologias:** HTML, CSS, JS.
 * **Link do Repositório:** [Projeto Fitness](https://github.com/luiz10c1m-coder/projeto-fitiness.git)
 
-#### 2. [Nome do Projeto 2 - Ex: Análise de Dados de Vendas (em breve)]
-
-* **Descrição:** Projeto em andamento que visa analisar um conjunto de dados de vendas para identificar tendências e *insights* importantes.
-* **Tecnologias:** Python, Pandas, Matplotlib.
-* **Link do Repositório:** [Link para o repositório deste projeto no GitHub (se já existir)]
-    * *(Se ainda não existir, você pode colocar "Repositório em construção")*
-
 ---
 
 ### 🌱 O Que Estou Aprendendo Agora?
 
-Atualmente, estou me aprofundando em **[mencione algo que está estudando, ex: frameworks web como React, ou conceitos de Cloud Computing]**.
+Atualmente, estou me aprofundando em **SQL,Front-end,Programação em C.**.
 
 ---
 
 ### 📬 Conecte-se Comigo!
 
-* **LinkedIn:** [Link para o seu perfil do LinkedIn]
-* **Email:** [Seu Email]
-* **Lattes (se aplicável):** [Link para o seu Currículo Lattes]
+* **LinkedIn:** [Perfil do Linkedin](https://www.linkedin.com/in/luiz-henrique-99796b243/)
+* **Email:** [Email](luiz10c1m@gmail.com)
 
 ---
 
