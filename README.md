@@ -2,7 +2,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Tecnologia
 
-Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um(a) estudante apaixonado(a) por tecnologia, com foco em programação back-end e front-end . Estou sempre buscando aprender e aplicar novos conhecimentos para resolver problemas e construir soluções inovadoras.
+Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um estudante apaixonado por tecnologia, com foco em programação back-end e front-end . Estou sempre buscando aprender e aplicar novos conhecimentos para resolver problemas e construir soluções inovadoras.
 
 ---
 
